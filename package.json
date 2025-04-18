@@ -53,7 +53,7 @@
   },
   "engines": {
   "node": "16.x"
-  }
+  },
   "pnpm": {
     "patchedDependencies": {
       "react-notion-x@6.16.0": "patches/react-notion-x@6.16.0.patch",
