@@ -52,7 +52,7 @@
     "email": "i@craigary.net"
   },
   "engines": {
-  "node": "16.x"
+  "node": "18.x"
   },
   "pnpm": {
     "patchedDependencies": {
